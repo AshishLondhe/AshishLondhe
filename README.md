@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshishLondhe
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Wev Devlopment
+- 🌱 I’m currently learning Wev Development
 
 
 <!---
